@@ -1,4 +1,5 @@
-# Sysadmin
+# Dienste
+
 
 ## LDAP
 
@@ -17,13 +18,3 @@
 ## Monitoring
 
 * [Kategorie:Zabbix](http://lab4.org/wiki/Kategorie:Zabbix) - Anleitungen für Zabbix
-
-## Virtualisierung & Container
-
-### SmartOS
-
-
-### Linux Containers & Docker
-
-* [LXC - Linux Containers](https://linuxcontainers.org/)
-* [Fig](http://www.fig.sh/index.html) - Fast, isolated development environments using Docker.
