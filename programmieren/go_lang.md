@@ -4,6 +4,7 @@
 * [Frequently Asked Questions (FAQ)](http://golang.org/doc/faq) - Viele häufig gestellte Fragen zu Go
 * [Go packages](https://medium.com/code-adventures/go-packages-8bb0d12ab12c)
 * [Gen](https://clipperhouse.github.io/gen/) - A library for bringing generics-like functionality to Go
+* [Golang Lib for DevOps](https://github.com/mindreframer/golang-devops-stuff)
 
 ## Tests
 * [Structuring Tests in Go](https://medium.com/@benbjohnson/structuring-tests-in-go-46ddee7a25c) - Wie Tests in Go organisiert werden sollten.

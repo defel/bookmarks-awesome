@@ -47,3 +47,7 @@
 ## Big Data
 
 * [Mortar](http://www.mortardata.com/)
+
+## Password Manager
+
+* [Mitro(Server)](https://github.com/mitro-co/mitro/blob/master/mitro-core/README.md)

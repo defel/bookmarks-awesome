@@ -1,29 +1,12 @@
 # Sysadmin
 
-## LDAP
+Systemadministration folgt den folgenden 6 Prinzipien:
 
-* [16 reasons to choose OpenDJ](http://kaosktrl.wordpress.com/2014/03/17/16-reasons-to-choose-opendj/)
-* [ldapjs](http://ldapjs.org/) - node.js implementation of ldap protocol
+- **Einfachheit / Simplicity** means that the smallest solution that solves the entire problem is the best solution. It keeps the systems easy to understand and reduces complex component interactions that can cause debugging nightmares.
+- **Klarheit / Clarity** means that the solution is straightforward. It can be easily explained to someone on the project or even outside the project. Clarity makes it easier to change the system, as well as to maintain and debug it. In the system administration world, it’s better to write five lines of understandable code than one line that’s incomprehensible to anyone else.
+- **Allgemeingültigkeit / Generality** means that the solutions aren’t inherently limited to a particular case. Solutions can be reused. Using vendor-independent open standard protocols makes systems more flexible and makes it easier to link software packages together for better services.
+- **Automatisierung / Automation** means using software to replace human effort. Automation is critical. Automation improves repeatability and scalability, is key to easing the system administration burden, and eliminates tedious repetitive tasks, giving SAs more time to improve services.
+- **Kommunikation / Communication** between the right people can solve more problems than hardware or software can. You need to communicate well with other SAs and with your customers. It is your responsibility to initiate communication. Communication ensures that everyone is working toward the same goals. Lack of communication leaves people concerned and annoyed. Communication also includes documentation. Documentation makes systems easier to support, maintain, and upgrade. Good communication and proper documentation also make it easier to hand off projects and maintenance when you leave or take on a new role.
+- **Grundlagen zuerst / Basics first** means that you build the site on strong foundations by identifying and solving the basic problems before trying to attack more advanced ones. Doing the basics first makes adding  advanced features considerably easier and makes services more robust. A good basic infrastructure can be repeatedly leveraged to improve the site with relatively little effort. Sometimes, we see SAs making a huge effort to solve a problem that wouldn’t exist or would be a simple enhancement if the site had a basic infrastructure in place. This book will help you identify what the basics are and show you how the other five principles apply. Each chapter looks at the basics of a given area. Get the fundamentals right, and everything else will fall into place. These principles are universal. They apply at all levels of the system. They apply to physical networks and to computer hardware. They apply to all operating systems running at a site, all protocols used, all software, and all services provided. They apply at universities, nonprofit institutions, government sites, businesses, and Internet service sites.
 
-## Logs
-
-* [Logs Are Streams, Not Files](http://adam.herokuapp.com/past/2011/4/1/logs_are_streams_not_files/) - Logs sind Datenströme und wie damit umgegangen werden sollte
-
-## Anleitungen
-
-* [Sysadmin Casts](http://sysadmincasts.com/) - Viele Sysadmin Screencasts
-* [A Proper Server Naming Scheme](http://mnx.io/blog/a-proper-server-naming-scheme/) - Ein Scheme wie Server benannt werden sollen - bis ca. 1.500 Server
-
-## Monitoring
-
-* [Kategorie:Zabbix](http://lab4.org/wiki/Kategorie:Zabbix) - Anleitungen für Zabbix
-
-## Virtualisierung & Container
-
-### SmartOS
-
-
-### Linux Containers & Docker
-
-* [LXC - Linux Containers](https://linuxcontainers.org/)
-* [Fig](http://www.fig.sh/index.html) - Fast, isolated development environments using Docker.
+aus dem Buch: **The practice of system and network administration.**

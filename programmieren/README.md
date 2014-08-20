@@ -1,19 +1,4 @@
 # Programmieren
 
-* [12 resolutions for programmers](http://matt.might.net/articles/programmers-resolutions/)
-* [Programming Is a Dead End Job](http://thecodist.com/article/programming_is_a_dead_end_job)
-* [Write Code Every Day](http://ejohn.org/blog/write-code-every-day/)
-* [How to be an open source gardener](http://words.steveklabnik.com/how-to-be-an-open-source-gardener)
-* [Staying up to date](http://elweb.co/staying-up-to-date/)
-
-## Game Programming
-
-* [Game Programming Patterns](http://gameprogrammingpatterns.com/)
-
-## Qualität
-
-### Code Reviews
-
-* [Pull request templates make code review easier](http://quickleft.com/blog/pull-request-templates-make-code-review-easier)
-
+*When I am programming, I am at a nexus. My thoughts become concrete. My ideas transform illusion into reality. The structure of existence is remade before my very eyes. I become a vessel for the creative force of the universe. I am carried aloft as if on the wings of dragons. Why should I care if nobody knows my name?*
 
