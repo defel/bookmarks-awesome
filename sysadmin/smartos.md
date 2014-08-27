@@ -37,6 +37,13 @@ snoop 10.1.0.2
 ```
 
 ---
+> create a tun0 device
+```bash
+ifconfig ip.tun0 plumb
+```
+
+
+---
 
 #### ipv6
 
