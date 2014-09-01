@@ -13,7 +13,8 @@ ZFS, DTrace, Zones, KVM
 ## Project Fifo
 
 * [Upgrade Guide](https://docs.project-fifo.net/general/upgrade.html)
-
+* [Problem Checklist](https://project-fifo.net/display/PF/Problem+Checklist)
+* [Problem Checklist](https://docs.project-fifo.net/en/dev/troubleshooting.html)
 
 ## Befehle
 
