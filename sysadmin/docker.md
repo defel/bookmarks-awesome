@@ -34,7 +34,7 @@
 
 - [Flynn](https://flynn.io/) - Flynn is the single platform that ops can provide to developers to power production, testing, and development, freeing developers to focus.
 - [Deis](http://deis.io/) - Deis (pronounced DAY-iss) is an open source PaaS that makes it easy to deploy and manage applications on your own servers. Deis builds upon Docker and CoreOS to provide a lightweight PaaS with a Heroku-inspired workflow.
-- [Stampede](https://github.com/cattleio/stampede) - Stampede is a hybrid IaaS/Docker orcherstration platform running on CoreOS. 
+- [Stampede](https://github.com/cattleio/stampede) - Stampede is a hybrid IaaS/Docker orcherstration platform running on CoreOS.
 
 ## Management
 
@@ -95,12 +95,23 @@ ENV DEBIAN_FRONTEND noninteractive
 
 - [Configuration](https://github.com/coreos/fleet/blob/master/Documentation/configuration.md)
 
-## Dockerfile
+## Commands
+
+### Docker
+
+> open a shell in the context of a docker instance
+```bash
+sudo nsenter -m -u -i -n -p -t 7107 /bin/bash
+```
+
+### Dockerfile
 
 > Set debian package tools (dpkg, apt-*) to non interactive, so no user prompt is expected
 ```bash
 ENV DEBIAN_FRONTEND noninteractive
 ```
+
+
 
 ---
 
