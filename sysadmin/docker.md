@@ -57,11 +57,12 @@ ENV DEBIAN_FRONTEND noninteractive
 
 - [LXC - Linux Containers](https://linuxcontainers.org/)
 
-## CoreOS
+## Etcd et al
 
 - [coreos/etcd](https://github.com/coreos/etcd) - A highly-available key value store for shared configuration and service discovery
 - [coreos/fleet](https://github.com/coreos/fleet) - A Distributed init System
 - [SkyDNS](https://github.com/skynetservices/skydns) - SkyDNS is a distributed service for announcement and discovery of services built on top of etcd
+- [Vulcan](http://www.vulcanproxy.com/) - Tools for building dynamic and easilly expandable HTTP reverse proxies.
 
 ### Articles
 
