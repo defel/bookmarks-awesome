@@ -10,6 +10,11 @@
 * [AngularJS Multi-Step Form Using UI Router](http://scotch.io/tutorials/javascript/angularjs-multi-step-form-using-ui-router)
 * [AngularJS: Factory vs Service vs Provider](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
 
+### Gulp
+
+* [Gulp Buch](http://david.nowinsky.net/gulp-book/) - Gulp: the modern frontend factory
+* [Learning Gulp](http://hmphry.com/gulp/) - Gettings started with the frontend factory
+
 ### Node.js
 
 * [NodeSchool.io](http://nodeschool.io/) - Lerne node.js in interaktiven Sessions
