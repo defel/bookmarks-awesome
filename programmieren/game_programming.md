@@ -29,3 +29,9 @@
 # Resources
 
 * [opengameart](http://opengameart.org/)
+
+## Tile Map & Isometric View
+
+* [An Introduction to Creating a Tile Map Engine](http://gamedevelopment.tutsplus.com/tutorials/an-introduction-to-creating-a-tile-map-engine--gamedev-10900)
+* [Tile Based Games](http://www.tonypa.pri.ee/tbw/start.html) - Documentation for writting tile based games.
+* [Isometric scroll](http://www.tonypa.pri.ee/tbw/tut19.html) - Isometric scrolling is no different from the normal top-down view. With very little trouble we can easily combine scrolling engine with isometric.

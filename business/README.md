@@ -8,4 +8,5 @@
 
 ## Bootstrapping
 
-* [Bootstrappers.io](http://www.bootstrappers.io/) – A community for business bootstrappers 
+* [Bootstrappers.io](http://www.bootstrappers.io/) – A community for business bootstrappers
+* [The Art of Profitability](http://codingvc.com/the-art-of-profitability)

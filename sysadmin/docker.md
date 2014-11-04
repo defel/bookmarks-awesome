@@ -30,6 +30,10 @@
 - [serf](http://www.serfdom.io/) - Serf is a decentralized solution for cluster membership, failure detection, and orchestration. Lightweight and highly available.
 - [progrium/registrator](https://github.com/progrium/registrator) - Service registry bridge for Docker
 
+### Registrator
+
+* [Automatic Docker Service Announcement with Registrator](http://progrium.com/blog/2014/09/10/automatic-docker-service-announcement-with-registrator/)
+
 ## Deployment
 
 - [Flynn](https://flynn.io/) - Flynn is the single platform that ops can provide to developers to power production, testing, and development, freeing developers to focus.
@@ -39,6 +43,10 @@
 ## Management
 
 - [Panamax](http://panamax.io/) - Docker Management for Humans
+
+## Networking
+
+- [Weave - the Docker network](https://github.com/zettio/weave/) - Weave creates a virtual network that connects Docker containers deployed across multiple hosts.
 
 ## Fleet
 

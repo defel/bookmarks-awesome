@@ -12,3 +12,7 @@
 ## Social Media
 
 * [Five Shocking Facts That Will Change Your Entire Approach to Social Media](http://blog.kissmetrics.com/shocking-social-media-facts)
+
+## E-Mail Marketing
+
+* [Lessons From Startup Guy #1: Email Marketing for Game Developers](https://www.reddit.com/r/gamedev/comments/1kzhd3/lessons_from_startup_guy_1_email_marketing_for/) - TLDR: Start email marketing the day you start developing your game. Collect emails. Make more money.

@@ -4,7 +4,7 @@
 
 * [What Google Taught Me About Scaling Engineering Teams](http://www.theeffectiveengineer.com/blog/what-i-learned-from-googles-engineering-culture) - Was getan werden muss, um Engineering Teams zu skalieren.
 * [The risk of the charismatic founder](http://josephwalla.com/the-risk-of-the-charismatic-founder)
-
+* [How to find your perfect Co-Founder](http://hatchery.io/how-to-find-your-perfect-co-founder.html)
 
 ## Gedanken
 

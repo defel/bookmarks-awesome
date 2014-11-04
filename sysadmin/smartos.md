@@ -3,12 +3,14 @@
 * [SmartOS](http://smartos.org/) - SmartOS unites four extraordinary technologies to revolutionize the datacenter:
 ZFS, DTrace, Zones, KVM
 * [Project FIFo](https://project-fifo.net/) - Private Cloud Lösung
-
+* [lx Brand](http://wiki.smartos.org/display/DOC/lx+Brand)
+  * [The dream is alive! Running Linux containers on an illumos kernel](http://www.slideshare.net/bcantrill/illumos-lx) - Presentation for #illumos day at #surgecon, 2014. Video can be found at https://www.youtube.com/watch?v=TrfD3pC0VSs
 
 ## Howto
 * [Resizing Linux VM Disks](http://wiki.smartos.org/display/DOC/Resizing+Linux+VM+Disks)
 * [pfSense on SmartOS KVM Zone](http://nullworks.wordpress.com/2013/12/19/pfsense-on-smartos-kvm-zone/) - pfSense von einem ISO in eine KVM auf SmartOS installieren
 * [Tips for node.js Deployment on SmartOS](http://marius.me.uk/blog/2013/04/tips-nodejs-deployment-smartos/)
+* [IPv6 the SmartOS Way](https://digitalelf.net/2014/10/ipv6-the-smartos-way/) - how to enable ipv6 on SmartOS GZ and zones
 
 ## Project Fifo
 
