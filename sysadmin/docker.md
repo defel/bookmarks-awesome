@@ -21,6 +21,7 @@
 - [Launching Containers with fleet](https://coreos.com/docs/launching-containers/launching/launching-containers-fleet/)
 - [Fleet - Using the Client](https://coreos.com/docs/launching-containers/launching/fleet-using-the-client/)
 - [Experimenting with CoreOS, confd, etcd, fleet, and CloudFormation](http://marceldegraaf.net/2014/04/24/experimenting-with-coreos-confd-etcd-fleet-and-cloudformation.html)
+- [Latest etcd docker registry image seems broken](https://github.com/coreos/etcd/issues/1597)
 
 ## Service Orchestration
 - [Fig](http://www.fig.sh/index.html) - Fast, isolated development environments using Docker.
@@ -56,6 +57,12 @@
 
 ### Docker
 
+> install nsenter as docker instance
+```bash
+docker run --rm -v /usr/local/bin:/target jpetazzo/nsenter
+```
+
+---
 > open a shell in the context of a docker instance
 ```bash
 sudo nsenter -m -u -i -n -p -t 7107 /bin/bash
